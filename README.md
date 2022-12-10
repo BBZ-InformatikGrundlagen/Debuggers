@@ -1,2 +1,2 @@
 # Debuggers
-Reaktionszeitenmesser Fatih Luca
+Reaktionszeitenspiel Fatih Luca
